@@ -1,4 +1,4 @@
 <?php
-echo "Hello from PHP! I am reversing ok";
+echo "Hello from Main! we are merging";
 echo "<br>GitHub connection test successful well done.";
 ?>
